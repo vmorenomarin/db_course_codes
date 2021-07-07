@@ -1,0 +1,195 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="462px" height="502px" viewBox="-0.5 -0.5 462 502" content="&lt;mxfile&gt;&lt;diagram id=&quot;QBrmvo75galPoEheY9OK&quot; name=&quot;Page-1&quot;&gt;7Zpdb9o8FMc/TaTtZspLQ9tLyLpuWldNMD3PZWUSk1hzbOSYAfv0O06cNxxKVtIJbVFRFR8f59g+f/wjBywvSHf3Aq2TLzzC1HLtaGd57y3Xvb124b8y7AvDzbVfGGJBosLk1IYF+Ym10dbWDYlw1nKUnFNJ1m1jyBnDoWzZkBB823ZbcdqOukYxNgyLEFHT+j+JZKJX4du1/SMmcVJGdmzdk6LSWRuyBEV82zB5d5YXCM5lcZXuAkzV3pX7Uoz7cKS3mpjATPYZoBPxA9GNXtsSsUjPTe7LBWdbklLEoDVbcSYXuseGdpgQGj2gPd+ogJlE4feyNUu4ID/BH1HocsAA3ULqfLoTdTdCacApF2BgPA9QD1qom+kwAmcw7Gu5MOfA9AXtWo4PKJPlBDmlaJ2RZT5lNTBFIiZsxqXkqXb6gYUkkOApJTEDW0qiSPnP9P5AN94d3WOnyhwoHvMUS7EHFz2gzHUpdt3c1spxSlvSVM1EG5FWa1zduQo2B3UjFsNMfyPapCMYJKMVC1GJBUMSz/iGRVlTQ3DRWGVtypXVrTLPUJnqmYLp0+O3u/u7OVy9+fr5raE72HTZrRKkE0XxSnbkT/K1ktsahYTFD7nP+6vaMtcrVyYOY1c0fxMmkHXMlIi4RBItK5GvOWEy3xp/Bi/YwMB+51s+zDGAtlO34aXchQw4y6RAJNcIBjlusZIkvAUE/47L1Viut7LVX1+pud1S27fTeEpbh+luSquV52eS6htJZSjFRVr/m86Dj9P5G8+GnNqPj5YK6DlqlZTHvO3km057jMSBQKo+OEFIJrMnU0IfPjfd6HKTnvQKQd65jJsTctWEKpcYM5EvK3CtaeXj+EfV2s6w1uvvS7g6gi5RxQNo1Xd7noP2zflinRhizfUxgu4VQede9yWd/9eQ7nok3VCkm1wM6W6MpApMYaG4zuy8SG0LYhlncXYSdT1xFqrknbwZRUtMq1t18yw/+J4kkdSkWn7LkWpn6LIv1W4HgNqtoUsluZFpr8i0q0lfpjlDMK0r3J+HWrmUDqrBwTESra/Sbi+GaI7TeXTUVHj2Ee7FT2D3DbeRMmdopS9l/AEo45g1wkIAI2gGBc3VC8uE7l/z8OSMdcLBWONcTqHQuTLS2qtSuCRCJk9mKTB/Ymn6IZBeN4wOXUcknYGkE5Lqy6TJEEwyi8/5o++IpNdE0r9Y0HPMyvHIpJcyyb8cJpmF2l5MUjR6WilhIUk4OxRCm1/HudSXSD2+p2rHfObLqtxxRNw5Cv2TxT3HrDqbdEvQWl2GgmfZUn1Omm0TIvECdlvZtwKpoySRackxoaSLI906nsAuQQxAFG/SPuL9rnKa2/WefwYoR3YUmvXvaIqTv/4xknf3Cw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-31-172-26-0">
+            <rect x="4" y="31" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-52-172-108-0">
+            <rect x="4" y="52" width="172" height="108"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-221-172-26-0">
+            <rect x="4" y="221" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-242-172-98-0">
+            <rect x="4" y="242" width="172" height="98"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-411-172-26-0">
+            <rect x="4" y="411" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-432-172-58-0">
+            <rect x="4" y="432" width="172" height="58"/>
+        </clipPath>
+        <clipPath id="mx-clip-224-31-172-26-0">
+            <rect x="224" y="31" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-224-52-172-68-0">
+            <rect x="224" y="52" width="172" height="68"/>
+        </clipPath>
+        <clipPath id="mx-clip-224-221-172-26-0">
+            <rect x="224" y="221" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-224-242-172-98-0">
+            <rect x="224" y="242" width="172" height="98"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 180 0 L 180 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 160 L 180 160 L 180 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 180 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="17.5">
+                band
+            </text>
+        </g>
+        <rect x="0" y="26" width="180" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-172-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                id: INTEGER (PK)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-52-172-108-0)" font-size="12px">
+            <text x="5.5" y="68.5">
+                name: VARCHAR(30) NN
+            </text>
+            <text x="5.5" y="82.5">
+                logo: VARCHAR(50) NN
+            </text>
+            <text x="5.5" y="96.5">
+                year: INTEGER
+            </text>
+            <text x="5.5" y="110.5">
+                artists_id: INTEGER FK
+            </text>
+            <text x="5.5" y="124.5">
+                albums_id: INTEGER FK
+            </text>
+            <text x="5.5" y="138.5">
+                country: VARCHAR(20)
+            </text>
+            <text x="5.5" y="152.5">
+                genre: VARCHAR(15)
+            </text>
+        </g>
+        <path d="M 0 216 L 0 190 L 180 190 L 180 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 0 340 L 180 340 L 180 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 180 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="207.5">
+                album
+            </text>
+        </g>
+        <rect x="0" y="216" width="180" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-221-172-26-0)" font-size="12px">
+            <text x="5.5" y="233.5">
+                id: INTEGER (PK)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-242-172-98-0)" font-size="12px">
+            <text x="5.5" y="260.5">
+                release: INTERGER NN
+            </text>
+            <text x="5.5" y="274.5">
+                songs: VARCHAR(50) NN
+            </text>
+            <text x="5.5" y="288.5">
+                artists_id: INTEGER FK
+            </text>
+            <text x="5.5" y="302.5">
+                cover: VARCHAR(50) NN
+            </text>
+            <text x="5.5" y="316.5">
+                label_id: VARCHAR(20)
+            </text>
+            <text x="5.5" y="330.5">
+                album_title: VARCHAR(50)
+            </text>
+        </g>
+        <path d="M 0 406 L 0 380 L 180 380 L 180 406" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 406 L 0 490 L 180 490 L 180 406" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 406 L 180 406" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="397.5">
+                song
+            </text>
+        </g>
+        <rect x="0" y="406" width="180" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-411-172-26-0)" font-size="12px">
+            <text x="5.5" y="423.5">
+                id: VAR (PK)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-432-172-58-0)" font-size="12px">
+            <text x="5.5" y="451.5">
+                song_title: VARCHAR(30) NN
+            </text>
+            <text x="5.5" y="465.5">
+                artists_id: INTEGER FK
+            </text>
+            <text x="5.5" y="479.5">
+                albums_id: INTGEGER FK
+            </text>
+        </g>
+        <path d="M 220 26 L 220 0 L 400 0 L 400 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 220 26 L 220 120 L 400 120 L 400 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 220 26 L 400 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="309.5" y="17.5">
+                artist
+            </text>
+        </g>
+        <rect x="220" y="26" width="180" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-224-31-172-26-0)" font-size="12px">
+            <text x="225.5" y="43.5">
+                id: INTEGER (PK)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-224-52-172-68-0)" font-size="12px">
+            <text x="225.5" y="69.5">
+                name: VARCHAR(30) NN
+            </text>
+            <text x="225.5" y="83.5">
+                birth_year: INTEGER
+            </text>
+            <text x="225.5" y="97.5">
+                bands_id: INTEGER FK
+            </text>
+            <text x="225.5" y="111.5">
+                albums_id: INTGEGER FK
+            </text>
+        </g>
+        <path d="M 220 216 L 220 190 L 400 190 L 400 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 220 216 L 220 340 L 400 340 L 400 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 220 216 L 400 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="309.5" y="207.5">
+                label
+            </text>
+        </g>
+        <rect x="220" y="216" width="180" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-224-221-172-26-0)" font-size="12px">
+            <text x="225.5" y="233.5">
+                id: INTEGER (PK)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-224-242-172-98-0)" font-size="12px">
+            <text x="225.5" y="260.5">
+                name: VARCHAR(30) NN
+            </text>
+            <text x="225.5" y="274.5">
+                year_foundation: INTEGER NN
+            </text>
+            <text x="225.5" y="288.5">
+                bands_id: INTEGER FK
+            </text>
+            <text x="225.5" y="302.5">
+                albums_id: INTGEGER FK
+            </text>
+            <text x="225.5" y="316.5">
+                country: VARCHAR(20) NN
+            </text>
+            <text x="225.5" y="330.5">
+                genre: VARCHAR(15) NN
+            </text>
+        </g>
+        <path d="M 340 480 L 340 500 M 460 480 L 460 500 M 340 490 L 460 490" fill="#ffffff" stroke="none" pointer-events="none"/>
+    </g>
+</svg>
